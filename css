@@ -1,0 +1,29 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+    margin: 0px;
+
+}
+@media only screen and (max-width: 1200px) {
+
+  }
+
+@media only screen and (max-width: 992px) {
+
+  }
+
+  @media only screen and (max-width: 768px) {
+canvas {
+    aspect-ratio: auto 1000 / 1000;
+}
+  }
+
+  @media only screen and (max-width: 480px) {
+
+  }
+
+  @media only screen and (max-width: 320px) {
+
+  }
